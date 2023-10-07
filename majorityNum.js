@@ -24,3 +24,4 @@ const majorityNum= ()=>{
    
 }
 const ans=majorityNum()
+console.log("ANSWER",ans);
